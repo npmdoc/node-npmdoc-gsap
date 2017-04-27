@@ -1,6 +1,6 @@
 # npmdoc-gsap
 
-#### api documentation for  [gsap (v1.19.1)](http://greensock.com/gsap/)  [![npm package](https://img.shields.io/npm/v/npmdoc-gsap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gsap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gsap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gsap)
+#### basic api documentation for  [gsap (v1.19.1)](http://greensock.com/gsap/)  [![npm package](https://img.shields.io/npm/v/npmdoc-gsap.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gsap) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gsap.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gsap)
 
 #### Think of GSAP as the Swiss Army Knife of animation...but better. It animates anything JavaScript can touch (CSS properties, canvas library objects, SVG, generic objects, whatever) and it solves countless browser inconsistencies, all with blazing speed (up
 
@@ -69,7 +69,8 @@
         "url": "git+https://github.com/greensock/GreenSock-JS.git"
     },
     "scripts": {},
-    "version": "1.19.1"
+    "version": "1.19.1",
+    "bin": {}
 }
 ```
 
